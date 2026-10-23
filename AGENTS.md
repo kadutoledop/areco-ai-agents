@@ -1,0 +1,3 @@
+# Instruções aos agentes de IA
+
+Projeto: desafio técnico Areco. Registrar interações relevantes em `docs/development_log.md` **durante** o desenvolvimento, não somente ao final. Incluir solicitação, proposta, decisão, testes, resultado, limitações e código aceito/modificado/descartado. Não registrar segredos nem dados pessoais. Não inventar testes nem resultados. Manter histórico exportado das ferramentas em pasta separada antes da entrega. Priorizar cálculo financeiro determinístico com Decimal, consulta exata a protocolos e respostas fundamentadas em documentos. Não executar SQL arbitrário gerado por LLM. Testar antes de publicar.

@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+logs/*.jsonl
+.venv/
+data/main_pfuzzy_modificador.m
